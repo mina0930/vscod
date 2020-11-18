@@ -1,7 +1,7 @@
 1回目編集
 2回目編集
 3回目編集(newbranch)
-
+7回目編集(編集の一部をコミット(コミットする方))
 4回目編集(newbranch) int main() {}
 
 5回目編集#inckude<stdio.h>
