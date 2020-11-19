@@ -9,3 +9,5 @@
 
 9回目編集(stashする側)
 10回目編集(PullRequest)
+
+10回目編集(PullRequest2回目)
