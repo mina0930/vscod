@@ -14,3 +14,7 @@
 10回目編集(PullRequest32回目)
 10回目編集(PullRequest修正)
 10回目編集(最終)
+
+int main(void) {
+    
+}
